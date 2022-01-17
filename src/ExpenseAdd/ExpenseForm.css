@@ -1,0 +1,53 @@
+.expense_form{
+  width:85vw;
+  height:15vh;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+ font-weight:bold;
+ /* display: hidden; */
+ visibility: hidden;
+}
+.expense_form-visible{
+  width:85vw;
+  height:15vh;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+ font-weight:bold;
+ /* display: hidden; */
+ visibility: visible;
+}
+
+.main{
+  width:90vw;
+  height:25vh;
+  margin-left:1.6rem;
+  background-color: blueviolet;
+  color:black;
+}
+.add-more{
+  margin-top: 50px;
+  margin-left:350px;
+}
+.remove-class{
+  visibility: hidden;
+  display: none;
+}
+.submitIt{
+  margin-left:90%;
+  background-color: black;
+  color:white;
+  visibility: hidden;
+}
+.submitItVisible{
+  margin-left:90%;
+  background-color: black;
+  color:white;
+  visibility: visible;
+}
+
+
+label{
+  margin:0.3rem;
+}

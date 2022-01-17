@@ -1,0 +1,12 @@
+.filterYear{
+  background-color: brown;
+  color:white;
+  width:85vw;
+  height:15vh;
+  margin:0.5rem;
+  margin-left:2.5rem;
+  padding: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
